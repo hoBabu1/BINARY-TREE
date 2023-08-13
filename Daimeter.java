@@ -11,7 +11,7 @@ public class Daimeter
         root.right.left = new Node(6);
         root.right.right = new Node(7);
         System.out.println(diameter(root).dia);
-
+/// hey 
     }
     static class Node 
     {
